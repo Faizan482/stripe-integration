@@ -1,0 +1,10 @@
+[lcl-host]
+realm-apid = 'localhost'
+
+[org]
+apid = 'faizanlatif481-6b343b'
+
+[service]
+apid = 'stripe-payment-method'
+category = 'javascript'
+cert-style = 'acme'
